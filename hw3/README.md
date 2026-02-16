@@ -27,7 +27,7 @@ hw3/
 
 Открыть локально: `open coverage/index.html`
 
-Открыть в GitHub: **[Coverage Report](https://github.com/ifde/HSE-CS-Year3-Quality-Testing/coverage/)**
+Открыть в GitHub: **[Coverage Report](https://htmlpreview.github.io/?https://github.com/ifde/HSE-CS-Year-3-Quality-Testing/blob/main/hw3/coverage/index.html)**
 
 ## Как запустить тесты локально
 
